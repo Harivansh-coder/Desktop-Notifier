@@ -26,4 +26,4 @@ if __name__ == "__main__":
             )
         screen_time += 2
 
-        time.sleep(60*60*2)
+        time.sleep(60*60*2) # 7200 seconds
